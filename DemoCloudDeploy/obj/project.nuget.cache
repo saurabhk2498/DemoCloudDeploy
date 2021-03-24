@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IHK69ygYaVLKmsQKCC7m9X6inuKnVidSMauI2HWfnkQThFiDkrGUuZIcTjT2cMj1sDS+/KWlSvwInXz+7kngLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Random\\DemoCloudDeploy\\DemoCloudDeploy\\DemoCloudDeploy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
